@@ -114,9 +114,3 @@ The analysis demonstrates a significant relationship between circadian rhythm ch
 - **Personalized Recommendations:** Align sleep patterns with individual chronotype.
 
 ---
-
-## 🚀 Usage
-
-To reproduce the analysis:
-
-1. Clone this repository:
